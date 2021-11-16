@@ -10,10 +10,12 @@
   },
   "dependencies": {
     "@types/node": "^16.11.6",
+    "interactjs": "^1.10.11",
     "postcss-nested": "^5.0.6",
     "vue": "^3.2.16"
   },
   "devDependencies": {
+    "@interactjs/types": "^1.10.11",
     "@vitejs/plugin-vue": "^1.9.3",
     "autoprefixer": "^10.4.0",
     "gh-pages": "^3.2.3",
